@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\bin\Debug\Assignment_03_P-2.exe.config
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\bin\Debug\Assignment_03_P-2.exe
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\bin\Debug\Assignment_03_P-2.pdb
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\obj\Debug\Assignment_03_P-2.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\obj\Debug\Assignment_03_P-2.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\obj\Debug\Assignment_03_P-2.exe
+D:\Mphasis-B2\Day-3\Assignment_03_P-2\Assignment_03_P-2\obj\Debug\Assignment_03_P-2.pdb
